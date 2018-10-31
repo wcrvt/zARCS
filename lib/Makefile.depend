@@ -1,0 +1,12 @@
+DataStorage.o: DataStorage.cc DataStorage.hh
+Differentiator.o: Differentiator.cc Differentiator.hh
+Differentiator2.o: Differentiator2.cc Differentiator2.hh
+DistObsrv.o: DistObsrv.cc DistObsrv.hh
+DistObsrv2.o: DistObsrv2.cc DistObsrv2.hh
+LowPassFilter.o: LowPassFilter.cc LowPassFilter.hh
+LowPassFilter2.o: LowPassFilter2.cc LowPassFilter2.hh
+PDcontroller.o: PDcontroller.cc PDcontroller.hh
+PIDcontroller.o: PIDcontroller.cc PIDcontroller.hh
+PIcontroller.o: PIcontroller.cc PIcontroller.hh
+PhaseLeadLag.o: PhaseLeadLag.cc PhaseLeadLag.hh
+Quarry.o: Quarry.cc Quarry.hh
